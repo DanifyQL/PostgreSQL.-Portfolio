@@ -14,3 +14,4 @@ https://github.com/DanifyQL/DB-normalization - загрузка данных, п
 
 ## Контакты
 - email: danks14@inbox.ru
+- telegram: @AureateX
