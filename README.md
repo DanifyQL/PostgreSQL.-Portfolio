@@ -9,7 +9,7 @@
 ## Стек
 Python, SQL (PostgreSQL, ClickHouse), Power Query, Power Pivot
 
-## Ссылки на проекты
+## Ссылки на пет-проекты
 https://github.com/DanifyQL/DB-normalization - загрузка данных, предобработка, нормализация, настройка связей + тестовые запросы
 
 ## Контакты
