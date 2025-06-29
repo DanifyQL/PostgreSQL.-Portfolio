@@ -12,6 +12,7 @@ Python, SQL (PostgreSQL, ClickHouse), Power Query, Power Pivot
 ## Ссылки на пет-проекты
 [Нормализация БД и настройка связей](https://github.com/DanifyQL/DB-normalization) - загрузка данных, предобработка, нормализация, настройка связей + тестовые запросы
 [Сложные типы данных и геоданные](https://github.com/DanifyQL/DB-json-geom) - работа с типами данных json, jsonb, geometry, geography и аналитические запросы
+
 [Функции, процедуры и триггеры](https://github.com/DanifyQL/DB-plpgsql) - проект нацелен на отработку навыков plpgsql
 ## Контакты
 - email: danks14@inbox.ru
