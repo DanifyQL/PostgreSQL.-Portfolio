@@ -10,7 +10,7 @@
 В данном репозитории представлены решения самых разных задач. 
 
 ## Стек
-Main: Python, SQL (PostgreSQL, ClickHouse)
+Main: Python, SQL (PostgreSQL, ClickHouse)                                                               
 Secondary: Power Query, Power Pivot, DataLens, , UML, Figma
 
 ## Ссылки проекты
